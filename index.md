@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Career Application
 
-You can use the [editor on GitHub](https://github.com/Mobear1/CareerApps/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Please fill this out and answer all questions!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Which career are you applying for? 
 
-### Markdown
+Game Development
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Factory Worker
 
-```markdown
-Syntax highlighted code block
+Cosmetologist
 
-# Header 1
-## Header 2
-### Header 3
+Auto Shop (Mechanic)
 
-- Bulleted
-- List
+Interior Design
 
-1. Numbered
-2. List
+Makeup Artist
 
-**Bold** and _Italic_ and `Code` text
+Advertising
 
-[Link](url) and ![Image](src)
-```
+Mortician
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Nursing
 
-### Jekyll Themes
+Real Estate
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mobear1/CareerApps/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Are you going to be active? 
 
-### Support or Contact
+Yes
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+No
+
+## Why do you want this career? 
+
+
+## Name 
+
+
+
+## Discord Name 
+
+
+
+## Date 
+
+
